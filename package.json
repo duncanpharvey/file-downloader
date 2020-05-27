@@ -1,0 +1,23 @@
+{
+  "name": "file-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duncanpharvey/file-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duncanpharvey/file-downloader/issues"
+  },
+  "homepage": "https://github.com/duncanpharvey/file-downloader#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
